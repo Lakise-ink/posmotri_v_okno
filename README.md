@@ -1,0 +1,1 @@
+git@github.com:Lakise-ink/posmotri_v_okno.git
